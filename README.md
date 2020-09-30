@@ -2,14 +2,14 @@
 Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code 🖥️
 
 ## 💡 Skills
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, PHP, JavaScript<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Reactjs, HTML5, CSS3, CakePHP, Docker<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, Oracle<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Scrum, Kanban<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Reactjs, HTML5, CSS3, Docker<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile<br />
 
 ## 🛠️ Things i'm currently Working
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 42´s Docker project<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏OOP in Linux <br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔏 Building my Portfolio website <br />
 
 ## 🪂 My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp;🏸 Traveling<br />
@@ -17,7 +17,7 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 &nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things<br />
 
 ## 🔍 I am looking for
-&nbsp;&nbsp;&nbsp;&nbsp;🏢 Software developer opportunities. Feel free to [contact me](https://www.linkedin.com/in/tanjinrahman/) through Linkedin to discuss! 
+&nbsp;&nbsp;&nbsp;&nbsp;🏢 Software developer opportunities. Feel free to [contact me](https://www.linkedin.com/in/tanjinrahman/) through Linkedin to discuss!
 
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanjinrahman/)
 
