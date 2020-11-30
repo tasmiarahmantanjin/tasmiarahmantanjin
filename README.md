@@ -2,7 +2,7 @@
 Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code 🖥️
 
 ## 💡 Skills
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
 &nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃  Reactjs, HTML5, CSS3, Docker<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile<br />
@@ -15,6 +15,8 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 &nbsp;&nbsp;&nbsp;&nbsp;🏸 Traveling<br />
 &nbsp;&nbsp;&nbsp;&nbsp;⚽ Photography<br />
 &nbsp;&nbsp;&nbsp;&nbsp;📖 Learning new things<br />
+
+![tasmiarahmantanjin' github stats](https://github-readme-stats.vercel.app/api?username=tasmiarahmantanjin&show_icons=true&hide_border=true)
 
 ## 🔍 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Software developer opportunities. Feel free to [contact me](https://www.linkedin.com/in/tanjinrahman/) through Linkedin to discuss!
