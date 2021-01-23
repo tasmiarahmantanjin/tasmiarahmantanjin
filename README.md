@@ -3,13 +3,13 @@ Hello! I am a programming student at [Hive Helsinki](https://www.hive.fi/en/). I
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 Reactjs, HTML5, CSS3, Docker<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 Reactjs, HTML5, CSS3, Bootstrap, NodeJS, Docker<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 42´s Docker project<br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏 Building my Portfolio website <br />
+&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 42´s Camagru project<br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔏 fullstackopen2020 <br />
 
 ## 🪂 My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp;🏸 Traveling<br />
