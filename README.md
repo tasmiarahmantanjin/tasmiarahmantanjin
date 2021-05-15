@@ -2,9 +2,9 @@
 Hello! I am working as a Software Developer, Trainee at [Sandvik](https://www.home.sandvik/en/) and programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code and solve problems 🖥️
 
 ## 💡 Skills
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 Reactjs, HTML5, CSS3, Bootstrap, NodeJS,Express, Docker, robot framework<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, C++, JavaScript, PHP<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 Reactjs, HTML5, CSS3, Bootstrap, NodeJS, Express, Docker, robot framework<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, MongoDB<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
