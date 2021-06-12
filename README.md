@@ -5,6 +5,7 @@ Hello! I am working as a Software Developer, Trainee at [Sandvik](https://www.ho
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, Pyhton, JavaScript, PHP<br />
 &nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 Reactjs, HTML5, CSS3, Bootstrap, NodeJS, Express, Docker, Robot Framework<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, MongoDB<br />
+&nbsp;&nbsp;&nbsp; <b><i>DevOps Technology </i></b>📃 Docker, Kubernetes, Jenkins, AWS, Robot Framework<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
