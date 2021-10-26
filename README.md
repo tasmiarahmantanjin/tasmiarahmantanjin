@@ -1,5 +1,5 @@
 # Tasmia Rahman
-Hello! I am working as a Software Developer, Trainee at [Sandvik](https://www.home.sandvik/en/) and programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code and solve problems 🖥️
+Hello! I am working as a Software Developer at [Extravagant Company](https://extravagant.limited) and programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code and solve problems 🖥️
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
