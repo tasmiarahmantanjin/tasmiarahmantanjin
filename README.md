@@ -3,7 +3,7 @@ Hello! I am working as a Software Developer at [Extravagant Company](https://ext
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 Reactjs, HTML5, CSS3, Bootstrap, TailwindCSS, NodeJS, Express, Docker, Robot Framework<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 NextJS, Reactjs, HTML5, CSS3, Bootstrap, TailwindCSS, NodeJS, Express, Docker, Robot Framework<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, MongoDB<br />
 &nbsp;&nbsp;&nbsp; <b><i>DevOps Technology </i></b>📃 Docker, Kubernetes, Jenkins, AWS, Robot Framework<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
