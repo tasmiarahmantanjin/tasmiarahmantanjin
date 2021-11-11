@@ -20,6 +20,6 @@ Hello! I am working as a Software Developer at [Extravagant Company](https://ext
 ![tasmiarahmantanjin' github stats](https://github-readme-stats.vercel.app/api?username=tasmiarahmantanjin&show_icons=true&hide_border=true)
 
 ## 🔍 I am looking for
-&nbsp;&nbsp;&nbsp;&nbsp;🏢 Software developer opportunities. Feel free to [contact me](https://www.linkedin.com/in/tanjinrahman/) through Linkedin to discuss!
+&nbsp;&nbsp;&nbsp;&nbsp;🏢 Colaboration. Feel free to [contact me](https://www.linkedin.com/in/tanjinrahman/) through Linkedin to discuss!
 
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanjinrahman/)
