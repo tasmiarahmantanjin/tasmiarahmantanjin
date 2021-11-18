@@ -1,6 +1,6 @@
-# Tasmia Rahman
-Hello! I am working as a Software Developer at [Extravagant Company](https://extravagant.limited) and programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code and solve problems 🖥️
+# Tasmia Rahman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+Hi there good people! I am working as a Software Developer at [Extravagant Company](https://extravagant.limited) and programming student at [Hive Helsinki](https://www.hive.fi/en/). I love to code and solve problems 🖥️
 
 #### Things I code with
 
