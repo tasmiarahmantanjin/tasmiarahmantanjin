@@ -16,6 +16,7 @@ Hi there good people! I am working as a Software Developer at [Extravagant Compa
 ## 🛠️ Things i'm currently Working
 &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 42´s Matcha project (PERN STACK)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🔏 fullstackopen2021 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;🔏 Learning TypeScript <br />
 
 ## 🪂 My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp; 🌍 Traveling<br />
