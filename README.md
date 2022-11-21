@@ -14,9 +14,7 @@ Hi there good people! I am working as a Software Developer at [Extravagant Compa
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
 
 ## 🛠️ Things i'm currently Working
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 42´s HyperTube project (PERN STACK)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;🔏 fullstackopen2021 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;🔏 Learning TypeScript <br />
 
 ## 🪂 My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp; 🌍 Traveling<br />
