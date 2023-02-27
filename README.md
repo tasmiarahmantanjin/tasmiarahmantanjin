@@ -8,13 +8,11 @@ Hi there good people! I am working as a Software Developer at [Extravagant Compa
 
 ## 💡 Skills
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Programming Language </i></b> ⚡ C, JavaScript, PHP<br />
-&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 NextJS, Reactjs, HTML5, CSS3, Bootstrap, TailwindCSS, NodeJS, Express, Docker, Robot Framework<br />
-&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, MongoDB<br />
+&nbsp;&nbsp;&nbsp; <b><i>Web Technology </i></b>📃 NextJS, Reactjs, TailwindCSS, NodeJS, ExpressJS, Python <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Database </i></b>📊 MySQL, PostgreSQL, TimescaleDB, MongoDB<br />
 &nbsp;&nbsp;&nbsp; <b><i>DevOps Technology </i></b>📃 Docker, Kubernetes, Jenkins, AWS, Robot Framework<br />
 &nbsp;&nbsp;&nbsp;&nbsp;<b><i>Processes </i></b>⚙️ Agile, Kanban<br />
 
-## 🛠️ Things i'm currently Working
-&nbsp;&nbsp;&nbsp;&nbsp;🔏 fullstackopen2021 <br />
 
 ## 🪂 My hobbies
 &nbsp;&nbsp;&nbsp;&nbsp; 🌍 Traveling<br />
