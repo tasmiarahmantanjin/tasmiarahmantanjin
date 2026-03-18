@@ -21,10 +21,6 @@ Hi there, good people! I am a Software Developer at [Extravagant Company](https:
 
 ![tasmiarahmantanjin' github stats](https://github-readme-stats.vercel.app/api?username=tasmiarahmantanjin&show_icons=true&hide_border=true)
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tasmiarahmantanjin.tasmiarahmantanjin)
-
 ## 🔍 I am looking for
 &nbsp;&nbsp;&nbsp;&nbsp;🏢 Colaboration. Feel free to [contact me](https://www.linkedin.com/in/tanjinrahman/) through Linkedin to discuss!
 
